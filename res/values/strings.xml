@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Demo</string>
+
+    <string name="dialog_title_error">Error</string>
+    <string name="msg_app_init_timeout">Application timeout!</string>
+    <string name="button_label_ok">OK</string>
+    <string name="msg_wait_app_init">Loading...</string>
+</resources>
